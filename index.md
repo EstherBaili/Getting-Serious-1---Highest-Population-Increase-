@@ -51,7 +51,7 @@ changeRate_male_10_col.plot(kind = 'bar')
 ```
 Mission Completed!
 
-
+![untitled](https://user-images.githubusercontent.com/44017368/81499156-91998400-9308-11ea-92c4-c0a11c77f2a4.png)
 
 
 
