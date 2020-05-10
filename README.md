@@ -1,4 +1,4 @@
-# Getting-Serious-1---Highest-Population-Increase-
+# Getting-Serious-1---Highest-Population-Increase
 This is from one of the technical interview question.
 
 ### a short snippet of python code to answer:
