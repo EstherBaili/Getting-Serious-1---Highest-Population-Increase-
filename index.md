@@ -1,6 +1,6 @@
 # Getting Serious with Simple Examples -- Highest Population Increase 
 ## This is an exercise on re-organize row and column index, slicing, selecting and extracting dataset needed from a downloaded source.
-### Key words in this exercise:
+### Key words of this exercise:
 - String Functions
 - MultiIndexing
 - DatetimeIndex
